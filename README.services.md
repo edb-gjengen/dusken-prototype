@@ -20,3 +20,5 @@ Take a look at Django signals:
 
 * pre_save
 * post_save
+
+Ref: https://www.dropbox.com/developers/webhooks/tutorial
